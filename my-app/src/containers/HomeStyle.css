@@ -1,0 +1,57 @@
+.ant-form-item{
+    padding: 0 0.5em !important;
+}
+
+.ant-form-item-control-input-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+#buttonSeatChoose{
+    width: 18em;
+    height: 3em;
+    padding: 0 2em;
+    border: black solid 1.5px !important;
+    border-radius: 0 !important;
+    font-size: 20px !important;
+}
+
+#buttonSeatChoose:hover{
+    color: black;
+    background-color: lightgrey;
+}
+
+.ant-input-number{
+    border: black solid 1.5px !important;
+    border-radius: 0 !important;
+    min-width: 12em !important;
+}
+
+.ant-checkbox .ant-checkbox-inner{
+    border-radius: 0;
+    border: black solid 1.5px !important;
+}
+
+.ant-checkbox:active .ant-checkbox-inner:active, .ant-checkbox:focus .ant-checkbox-inner:focus{
+    border-radius: 0;
+    border: black solid 1.5px !important;
+    outline:none !important;
+
+}
+
+label{
+    font-size: 20px !important;
+}
+
+input[type="checkbox"]:focus{
+    outline:none !important;
+}
+
+.ant-form-item-control-input-content {
+    justify-content: flex-end !important;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}

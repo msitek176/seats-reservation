@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+.ant-layout{
+  height: 100vh;
+}
+
+.ant-layout-content{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

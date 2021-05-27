@@ -1,0 +1,5 @@
+export const ActionTypes = {
+    SET_SEATS: "SET_SEATS",
+    SELECTED_SEAT: "SELECTED_SEAT",
+    UNSELECTED_SEAT: "UNSELECTED_SEAT",
+};
